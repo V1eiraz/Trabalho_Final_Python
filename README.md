@@ -6,7 +6,7 @@ Este projeto implementa um sistema de controle de assentos e gestão de linhas p
 
 ## ✨ Funcionalidades Principais
 
-O sistema oferece as seguintes funcionalidades robustas:
+O sistema oferece as seguintes funcionalidades :
 
   * **Cadastro e Gestão de Linhas:** Inclusão, remoção e alteração de rotas (`Origem` -\> `Destino`), horários e valores.
   * **Controle de Assentos:** Cada ônibus suporta **20 assentos** (1-20), onde os **assentos ímpares são nas janelas**. O sistema gerencia a disponibilidade para cada data e linha.
@@ -100,5 +100,5 @@ pip install numpy colorama matplotlib
 
 Este projeto foi desenvolvido em dupla por:
 
-  * **[Davi E. Vieira]**
-  * **[CARLOS DANIEL BARBOSA SILVEIRA]**
+  * **Davi E. Vieira**
+  * **Carlos Daniel Barbosa Silveira**
