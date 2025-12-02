@@ -34,7 +34,7 @@ O código é modularizado para representar as entidades do sistema:
 | **`SistemaPassagens`** | Gerencia a lógica de negócio, o menu e as coleções de dados. | Listas de `linhas`, `reservas` e `reservas_negadas`. |
 | **`Cidade`** | Objeto simples para Origem/Destino. | Lista global `CIDADES`. |
 
-> **Nota:** As mensagens de *print/output* utilizam a biblioteca `colorama` para melhorar a visualização , a clareza e a estética do terminal.
+> **Nota:** As mensagens de *print/output* utilizam a biblioteca `colorama` para melhorar a visualização, a clareza e a estética do terminal.
 
 -----
 
