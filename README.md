@@ -60,6 +60,9 @@ pip install numpy colorama matplotlib
     ```
 
 2.  **Crie o arquivo de reservas (`Reservas.txt`):**
+3.  
+4.  > **Nota:** O arquivo precisa ter exatamente este nome ou não irá funcionar.
+5.  
     Crie este arquivo no diretório principal para testar a opção **7** (Ler reservas de arquivo).
 
     **Conteúdo de `Reservas.txt`**
@@ -88,10 +91,10 @@ pip install numpy colorama matplotlib
     bh ;sp;25/12/2025;09:00; 15
     ```
 
-3.  **Execute o script Python:**
+6.  **Execute o script Python:**
 
     ```bash
-    python seu_arquivo_principal.py
+    python3 Trabalho_Final_Python.py
     ```
 
 -----
