@@ -1,6 +1,6 @@
 ## 🚌 Sistema de Gerenciamento de Passagens Rodoviárias
 
-Este projeto implementa um sistema de controle de assentos e gestão de linhas para uma empresa de transporte rodoviário de passageiros, desenvolvido em **Python**. O foco é simular o ciclo de vendas, reservas e geração de relatórios de uma frota de ônibus, atendendo a todos os requisitos solicitados.
+Este projeto implementa um sistema de controle de assentos e gestão de linhas para uma empresa de transporte rodoviário de passageiros, desenvolvido em **Python**. O foco é simular o ciclo de vendas, reservas e geração de relatórios de uma frota de ônibus, atendendo a todos os requisitos solicitados pelo professor de Programação em Python **Guido**.
 
 -----
 
@@ -34,7 +34,7 @@ O código é modularizado para representar as entidades do sistema:
 | **`SistemaPassagens`** | Gerencia a lógica de negócio, o menu e as coleções de dados. | Listas de `linhas`, `reservas` e `reservas_negadas`. |
 | **`Cidade`** | Objeto simples para Origem/Destino. | Lista global `CIDADES`. |
 
-> **Nota:** As mensagens de *output* utilizam a biblioteca `colorama` para melhorar a visualização e clareza no terminal.
+> **Nota:** As mensagens de *print/output* utilizam a biblioteca `colorama` para melhorar a visualização , a clareza e a estética do terminal.
 
 -----
 
@@ -55,8 +55,8 @@ pip install numpy colorama matplotlib
 1.  **Clone o repositório:**
 
     ```bash
-    git clone [LINK DO SEU REPOSITÓRIO]
-    cd [NOME DO SEU REPOSITÓRIO]
+    git clone https://github.com/V1eiraz/Trabalho_Final_Python.git
+    cd Trabalho_Final_Python
     ```
 
 2.  **Crie o arquivo de reservas (`Reservas.txt`):**
