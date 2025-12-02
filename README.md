@@ -1,6 +1,6 @@
 ## 🚌 Sistema de Gerenciamento de Passagens Rodoviárias
 
-Este projeto implementa um sistema de controle de assentos e gestão de linhas para uma empresa de transporte rodoviário de passageiros, desenvolvido em **Python**. O foco é simular o ciclo de vendas, reservas e geração de relatórios de uma frota de ônibus, atendendo a todos os requisitos solicitados pelo professor de Programação em Python **Guido**.
+Este projeto implementa um sistema de controle de assentos e gestão de linhas para uma empresa de transporte rodoviário de passageiros, desenvolvido em **Python**. O foco é simular o ciclo de vendas, reservas e geração de relatórios de uma frota de ônibus, atendendo a todos os requisitos solicitados pelo professor **Guido**, de Programação em Python.
 
 -----
 
