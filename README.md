@@ -18,7 +18,6 @@ O sistema oferece as seguintes funcionalidades :
   * **Geração de Relatórios (Tela ou Arquivo):**
       * **Faturamento:** Total arrecadado com venda de passagens no mês corrente, por linha.
       * **Reservas Negadas:** Geração de um arquivo texto (`Reservas_Negadas.txt`) detalhando todas as tentativas de reserva que falharam, juntamente com o motivo (ex.: ônibus cheio, assento ocupado).
-  * **Tratamento de Erros:** Verificação de *inputs* do usuário (ex: entrada não numérica, formato de horário/data incorreto).
   * **Estruturas de Dados:** Utilização de **Classes**, **Listas** (vetores), e **Dicionários** conforme exigido.
 
 -----
